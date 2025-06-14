@@ -3,7 +3,7 @@ function Nav() {
         <ul>
             <li>Home</li>
             <li>Menu</li>
-            <li>Reserve a Table</li>
+            <li>Bookings</li>
             <li>About</li>
         </ul>
     </nav>)
